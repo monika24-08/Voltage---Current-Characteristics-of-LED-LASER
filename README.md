@@ -74,7 +74,6 @@ Key points:
 <img width="994" height="1280" alt="image" src="https://github.com/user-attachments/assets/3a93013b-2d1e-4c93-8d62-25453951986b" />
 <img width="1007" height="1280" alt="image" src="https://github.com/user-attachments/assets/7d8d79b6-e071-46bb-9587-a8117fb21074" />
 
----
 
 ## RESULT
 - The VI characteristics of the fiber optic LED and LASER were studied.  
